@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am an sofeware engineer,  and open source enthusiast
 <!--
 **icodening/icodening** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
