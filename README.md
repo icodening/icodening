@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am an sofeware engineer,  and open source enthusiast  
   
-![icodening's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=icodening&layout=compact&theme=dracula&border_radius=10&hide_border=1&card_width=310)
+![icodening's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=icodening&layout=compact&theme=dracula&border_radius=10&hide_border=1&card_width=300)
 ![icodening's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodening&show_icons=true&theme=dracula&border_radius=10&hide_border=1&line_height=20)
 
 <!--
